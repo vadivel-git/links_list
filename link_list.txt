@@ -1,0 +1,317 @@
+Sites
+https://positionly.com/
+http://designm.ag/design/28-nice-landing-page-designs/
+http://www.htmlinstant.com/
+http://www.buildtutorial.com/
+http://www.cssscript.com/
+https://scotch.io/tutorials
+http://www.danstools.com/javascript-minify/
+http://securecheck.ml/
+https://in.pinterest.com/pin/381117187198404414/
+https://cdnjs.com/libraries/font-awesome
+http://www.free-css.com/free-css-templates?start=72
+http://bootstrapbay.com/theme/bootstrap-starter-kit-B51166C
+https://dribbble.com/
+http://tomasjanecek.cz/en/clanky/post/list-of-bootstrap-3-css-classes-with-description
+https://nucleoapp.com/demo/#0
+https://github.com/twbs/bootstrap/issues/14725
+http://www.zoodigital.com/
+http://plugins.jquery.com/
+http://localhost/div/plgins/gentelella-master/production/
+https://wrapbootstrap.com/themes
+https://shapebootstrap.net/free-templates
+https://www.bootstrapzero.com/
+view-source:http://theme.stepofweb.com/Smarty/v1.1.4/HTML/page-clients-6.html#
+http://bootstrapstarterkit.com/bskit-demo/
+http://docs.emmet.io/cheat-sheet/
+https://fonts.google.com/?selection.family=Dosis
+https://themewagon.com/themes/
+http://www.flaticon.com/free-icon/play-symbol_79705
+https://pixabay.com/
+http://www.flaticon.com/
+https://themeforest.net/
+http://uigradients.com/#
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
+https://www.pexels.com/
+https://www.sanwebe.com/2015/06/responsive-navigation-tutorials-demo
+http://theme-one.com/mobius/
+http://demo.themewagon.com/preview/notes-free-responsive-product-launching-landing-page-template
+http://wrapbootstrap.com/preview/WB0L06586
+https://dcrazed.com/bent-app-landing-page-template/
+http://wrapbootstrap.com/preview/WB0GP76R6
+http://dev.navadiya.me/aneria/demo/index_1.html
+https://www.behance.net/search?field=132
+https://undsgn.com/uncode/
+https://colorlib.com/wp/best-one-page-wordpress-themes/
+http://oneup.themes.tf/captioned-slider-home/
+http://bridgelanding.qodeinteractive.com/choose-your-demo/
+http://www.geochooser.com/
+https://sitesee.co/
+https://desket.co/blogs/news/infographic-the-100-best-web-design-tools-ever
+https://redpen.io/nc594c58ea273d1df4
+https://coolors.co/
+https://my.visme.co/edit/c72c0f4cc301c9f1cacb4085a97904e4/0vyYexz2gHyM6VNYmL6DJBBYMxR27dyrUJjq7jzNtD8=#
+https://codyhouse.co/
+http://preview.themeforest.net/item/edutute-responsive-html-template-for-course-management/full_screen_preview/18430320
+https://colordrop.io/#0
+http://m.vananservices.com/
+http://demo.themexy.com/nemo/gradient-overlay-app-1/
+http://demo.xtemos.com/basel/wishlist/view/
+https://dribbble.com/shots/3083584-Upload-Files-Popup/attachments/650211
+http://ui-patterns.com/
+https://www.behance.net/gallery/24974365/Thin-Line-UI-Icons-170
+http://www.landingfolio.com/
+https://validator.ampproject.org/#
+https://ampbyexample.com/components/amp-sidebar/
+https://mobius.studio/themes/pinna/docs//
+https://mobius.studio/themes/pinna/LTR/
+https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw/videos
+http://st3ph.github.io/jquery.easyWizard/
+http://vadimg.com/twitter-bootstrap-wizard-example/
+http://www.jquery-steps.com/Examples#basic
+http://vadimg.com/twitter-bootstrap-wizard-example/prettify.css
+
+images
+http://makerbook.net/stock-photos
+http://makerbook.net/photography/
+https://stock.adobe.com/search?k=translation+service&filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=0&safe_search=1&ca=0&search_page=2
+http://photype.co/
+
+snippets
+http://www.snippetgenerator.com/productsnippets/price-snippet.html#.V0_4oNkrKHs
+https://search.google.com/structured-data/testing-tool
+https://builtvisible.com/micro-data-schema-org-guide-generating-rich-snippets/
+http://tools.seochat.com/
+
+
+ai & psd
+http://wegraphics.net/
+http://www.vecteezy.com/vector-art/95529-best-offer-sale-banner-vector
+https://typekit.com/fonts?code=eyJhbGciOiJSUzI1NiIsIng1dSI6Imltc19uYTEta2V5LTEuY2VyIn0.eyJpZCI6IjE0NjQyMzQ1MTAxMzgtYTU4YTMyYTYtMzY5Yy00ZDUxLTlkODMtNDU5NjMyYTllNWFjIiwic2NvcGUiOiJjcmVhdGl2ZV9jbG91ZCxzYW8udHlwZWtpdCxvcGVuaWQsc2FvLmNjZV9wcml2YXRlLEFkb2JlSUQsZ25hdiIsInN0YXRlIjoiIiwiY3JlYXRlZF9hdCI6IjE0NjQyMzQ1MTAxMzgiLCJhcyI6Imltcy1uYTEiLCJ1c2VyX2lkIjoiQzc1RUEyNzI1NTIyMjRBNDBBNEM5OEEyQEFkb2JlSUQiLCJleHBpcmVzX2luIjoiMTgwMDAwMCIsImNsaWVudF9pZCI6IlR5cGVLaXQyIiwidHlwZSI6ImF1dGhvcml6YXRpb25fY29kZSJ9.ct1XvtT-m-ue801AY-BEvPBkn4V1uHuNSI5tH8jegMis1O-nA8IvsU43gdbYmK5pKfh8V8tBpxK6_iEzTTvsKIErzSdT1fck0EDUmkUBsP5S-CVXSZB3C1jQ-ApQpgfd4eoKsisTWi64_9IZWGMcYaeGJ5l-4rePhtKMjr2jwsvpshxZSkSQxbb8TyN5ilPGJV_15jNbXd6DudbrxVmAZS2kIadLYQqxF08yaltkq8YzkF3ad4QKTStL3G2tCh8BWeYhxtc_Xa0PCTJ-N5L2_5PY-Vql-ES-EeyYtSnlk9T_nikbTxC4hGS-_U0L6Im2_F4tB3X9wOJqZulVv-zDIg&licenses=desktop
+
+
+Design
+http://tympanus.net/codrops/2013/07/16/on-scroll-header-effects/
+http://codecanyon.net/item/cream-tabs-jquery-plugin/full_screen_preview/4595995?ref=wpfreeware
+http://startbootstrap.com/bootstrap-resources/#dev-tools
+http://arnique.net/demos/themes/torus/wb-v1/app.html
+http://wrapbootstrap.com/preview/WB0X5MXBN
+http://www.flaticon.com/packs/essential-set-2
+http://theemon.com/c/charityplus/LivePreview/
+https://codepen.io/markhillard/pen/Hjcwu
+https://www.behance.net/gallery/18845421/Voice-Over-Website-Template
+
+illustrator
+http://www.designbolts.com/2013/01/27/20-best-latest-adobe-illustrator-cs6-tutorials-for-beginners-intermediates/
+http://www.graphicmania.net/how-to-create-folded-text-effect-in-illustrator-cs6/
+
+
+jQuery
+http://www.jqueryscript.net/tags.php?/Time%20Picker/
+https://twittstrap.com/bootstrap-material-datepicker/
+
+
+compressor
+https://jscompress.com/
+http://csscompressor.com/
+http://www.freeformatter.com/html-formatter.html#ad-output
+https://tools.arantius.com/css-compressor
+
+
+other
+http://hourtrans.com/
+http://clickfortranslation.com/
+http://typingglobal.com/
+http://vanancaptioning.net/
+http://realisticvoices.com/
+http://codebeautify.org/htmlviewer/
+https://htmlcompressor.com/compressor/
+https://www.giftofspeed.com/css-compressor/
+http://www.quicktranscriptionservice.com/
+http://scriptscomplete.com/
+http://transcriptionnow.com/
+http://typingglobal.com/Typing-Services-Rates.php
+https://logomakr.com/0irPK7
+http://www.newyork-translation.com/
+http://html-cleaner.com/
+http://htmltidy.net/
+http://www.creatnprocess.net/logo-design/
+http://schema-creator.org/product.php
+http://schema.org/Product
+http://snippetoptimizer.net/
+https://www.cssout.com/#step3
+http://www.materialup.com/search?q=popup
+https://www.myfonts.com/WhatTheFont/results?ch%5B0%5D=c&ch%5B1%5D=g&ch%5B2%5D=r&ch%5B3%5D=t&ch%5B4%5D=a&ch%5B5%5D=e&ch%5B6%5D=p&ch%5B7%5D=h&ch%5B8%5D=a&ch%5B9%5D=c&ch%5B10%5D=t&ch%5B11%5D=i&ch%5B12%5D=i&ch%5B13%5D=v&ch%5B14%5D=D&ch%5B15%5D=E&ch%5B16%5D=S&ch%5B17%5D=e&ch%5B18%5D=r&ch%5B19%5D=G&ch%5B20%5D=t&ch%5B21%5D=&session=00050629571778c60004676d000006030&x=88&y=39
+https://www.myfonts.com/WhatTheFont/
+https://creativemarket.com/
+http://convertico.com/
+http://vananservices.com/
+http://www.freepik.com/
+http://depositphotos.com/
+https://www.vectoropenstock.com/
+http://directtranslated.com/
+https://wrapbootstrap.com/
+http://jsfiddle.net/iminfo/txnot4h1/?utm_source=website&utm_medium=embed&utm_campaign=txnot4h1
+http://www.transcription-services-us.com/
+http://www.shutterstock.com/
+http://yslow.org/
+http://seositecheckup.com/
+http://www.siteoscope.com/
+http://visualsubtitling.com/
+http://academictranslationservices.com/
+http://assist-ny.com/
+http://preview.themeforest.net/item/fekra-responsive-multi-pageone-page-wordpress-theme/full_screen_preview/15847093?_ga=1.124407242.1767707464.1467806426
+http://videocaptioning.co/
+http://vdtm.in/vananservices/
+https://app.crossbrowsertesting.com/search
+http://clickfortranscription.com/
+http://vanandesk.com/
+http://wrapbootstrap.com/preview/WB099597X
+http://www.sketchappsources.com/
+http://localhost/div/design-layout/design-1/clients-testimonial.php
+http://localhost/div/design-layout/design-1/contact.php#
+https://www.stampready.net/promotions/starter-kit/
+http://www.todaytranscription.com/
+http://app.fontastic.me/#select/WxHmECVZSAs5HXXAnEVRfA
+http://localhost/div/design-layout/design-1/about-us.php
+http://shizoy.deviantart.com/gallery/
+http://vdtm.in/cbm-template/index.php
+http://demo.deviserweb.com/eventer/version/light/image-bg/style-1/index.html
+http://widetranscription.com/
+http://owlgraphic.com/owlcarousel/index.html
+http://www.freeformatter.com/html-formatter.html
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+http://lisacatalano.github.io/brackets_course/pc.html
+https://support.bench.co/
+
+bootstrap design collection
+https://www.siteinspire.com/
+http://froont.com/
+https://bootstrapstudio.io/tutorials/
+https://hackernoon.com/
+http://es-di.com/sdcontent/foundation/advanced-bootstrap/#
+
+
+design models
+https://www.uplabs.com/
+https://uxdesign.cc/
+https://in.pinterest.com/
+https://dribbble.com/
+http://www.landingfolio.com/
+https://wrapbootstrap.com/
+https://www.coverfox.com/
+
+
+tab bootstrap
+http://bootsnipp.com/snippets/7NGDP
+
+brackets.io
+http://beebom.com/brackets-extensions-you-really-need/
+
+chat 
+http://bootsnipp.com/snippets/embQD
+
+
+vs
+https://verbalink.com/transcription-services
+
+
+chat design
+http://wrapbootstrap.com/preview/WB011H985
+http://wrapbootstrap.com/preview/WB0J6BJ85
+http://wrapbootstrap.com/preview/WB055J451
+http://demo.neontheme.com/dashboard/main/
+
+
+chat scrrol top
+http://jsfiddle.net/deepakmanwal/5RY2v/1/
+
+site design
+https://lstore.graphics/resource/
+
+page modespeed
+http://modpagespeed.com/
+Google Site check
+https://testmysite.thinkwithgoogle.com/
+photoshop font design
+https://pixelbuddha.net/freebie/aquaflow-watercolor-styles
+ui kit design
+https://dcrazed.com/
+ui code
+http://designmodo.github.io/Flat-UI/#
+bootstrap themes
+http://thebootstrapthemes.com/
+bootstrap themes
+https://bootstrapmade.com/
+style hout
+http://www.styleshout.com/free-templates/
+open source CMS
+https://subrion.org/
+rate table
+https://dribbble.com/shots/2064992-Checkout-plan-selection/attachments/369679
+google home design
+https://madeby.google.com/home/
+landding page design
+https://elements.envato.com/web-templates/landing-page-templates
+google all products
+https://www.google.com/intl/en/about/products/
+landding page design
+http://www.landingfolio.com/
+UI Design
+http://www.cssauthor.com/
+photoshop plugins
+http://www.deviantart.com/
+js beautify
+http://beautifytools.com/
+site tools check
+http://nibbler.silktide.com/
+google responsive ui
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/
+webdesgin
+http://preview.themeforest.net/item/space-host-whmcs-html-landing-page/full_screen_preview/19787437?_ga=2.206783891.1269333273.1494995861-661796663.1494995861
+mobile menu design
+http://preview.themeforest.net/item/varius-mobile-and-tablet-creative-template/full_screen_preview/16080887
+http://themes.krzysztof-furtak.pl/themes/nox/nox/#!/index.html
+Independent designers.
+https://elements.envato.com/
+site color
+http://www.flatuicolorpicker.com/category/all
+newsletter
+https://beefree.io/editor/
+
+UI KIT DESIGN	
+1	http://demos.creative-tim.com/paper-kit
+2	http://ossamaz.github.io/One-ui-kit/
+	
+	
+	
+	js fiddle
+	
+	
+	video
+	http://html5demos.com/video
+	
+	pingtom tools
+	https://my.pingdom.com/newchecks/checks#
+	
+	https://www.cloudflare.com/
+	dinesh@vananservices.com
+	Design@123
+	
+	
+	
+	design coode
+	https://fribly.com/
+	https://tympanus.net/codrops/
+	https://www.myportfolio.com/examples
+	
+	Responsive Tool
+	http://mobiletest.me/
+	
+	https://www.inspirationde.com/
+	
+	
+	mobile
+	https://mobiforge.com/design-development/html5-mobile-web-forms-and-input-types
+
